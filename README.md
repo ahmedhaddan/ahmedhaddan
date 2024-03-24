@@ -1,9 +1,12 @@
-<img src="Days with dad.gif" align="left" height="" width="600" />  
+<img src="Days with dad.gif" align="left" height="" width="400" />  
   
 
-## <div align="center">👋 Hey there! I'm Ahmed, a Netsuite developer 🧑‍💻</div>  
+## <div align="right">👋 Hey there! I'm Ahmed, a Netsuite developer 🧑‍💻</div>  
   
+ <div align="center">
 
+ <div align="center">
+    
 - 🔭 I’m currently working on [Netsuite AI Chatbot](https://github.com/rishavanand/github-profilinator)  
   
 
@@ -14,8 +17,13 @@
   
 
 - ⚡ Fun fact: The first computer bug was a real bug!  
-  
+  </div>  
+  ---
 
+  🚀 Hey there! Take a look around my projects, see what catches your eye, and let's chat about code💬. Whether you're here to collaborate💻, learn🌱, or just for a quick peek🔍, I hope you find something that inspires you. Enjoy your stay! 🎉
+</div>  
+  <br/> <br/> 
+  
 ## My NetSuite Skills  
   
 
@@ -144,4 +152,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
