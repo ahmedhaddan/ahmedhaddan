@@ -1,7 +1,7 @@
 <img src="Days with dad.gif" align="left" height="" width="400" />  
   
 
-## <div align="right">👋 Hey there! I'm Ahmed, a Netsuite developer 🧑‍💻</div>  
+## <div align="center">👋 Hey there! I'm Ahmed, a Netsuite developer 🧑‍💻</div>  
   
  <div align="center">
 
