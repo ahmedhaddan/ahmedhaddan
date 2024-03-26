@@ -7,10 +7,10 @@
 
  <div align="center">
     
-- 🔭 I’m currently working on [Netsuite AI Chatbot](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [interesting projects](https://github.com/rishavanand/github-profilinator)  
   
 
-- 🌱 I’m currently learning AI  
+- 🌱 I’m currently learning AI ML DL
   
 
 - ❓ Ask me about anything related to Netsuite SuiteScript   
